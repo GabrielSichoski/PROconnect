@@ -1,0 +1,425 @@
+/* Tela de Login */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* BACKGROUND */
+
+position: absolute;
+width: 1440px;
+height: 1053.37px;
+left: 0px;
+top: -11px;
+
+
+
+/* FUNDO-Primary/300 */
+
+position: absolute;
+width: 1440px;
+height: 1053.37px;
+left: 0px;
+top: -11px;
+
+/* Primary/300 */
+background: #5201A4;
+
+
+/* Retângulo-Accent/100 */
+
+position: absolute;
+width: 715px;
+height: 972px;
+left: 655px;
+top: 70px;
+
+/* Accent/100 */
+background: #E8E3ED;
+border-radius: 5px;
+
+
+/* Sign up */
+
+position: absolute;
+width: 584px;
+height: 179px;
+left: 722px;
+top: 743px;
+
+
+
+/* Stroke */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 584px;
+height: 179px;
+left: 722px;
+top: 743px;
+
+/* Accent/300 */
+border: 1px solid #8A8294;
+border-radius: 5px;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 18px;
+gap: 10px;
+
+position: absolute;
+width: 479px;
+height: 56px;
+left: 774px;
+top: 828px;
+
+/* Secondary/300 */
+background: #38B5D0;
+border-radius: 5px;
+
+
+/* Create account */
+
+width: 443px;
+height: 20px;
+
+/* Input labels */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: center;
+
+/* Accent/100 */
+color: #E8E3ED;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Não possui uma conta? */
+
+position: absolute;
+width: 299px;
+height: 16px;
+left: 774px;
+top: 782px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 20px;
+/* or 83% */
+
+color: #000000;
+
+/* Accent/300 */
+border: 1px solid #8A8294;
+
+
+/* Login */
+
+position: absolute;
+width: 585px;
+height: 438.45px;
+left: 720px;
+top: 189px;
+
+
+
+/* Esqueceu a senha? */
+
+position: absolute;
+width: 232px;
+height: 19.57px;
+left: 1073px;
+top: 607.88px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: right;
+
+/* Secondary/300 */
+color: #38B5D0;
+
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 18px;
+gap: 10px;
+
+position: absolute;
+width: 583px;
+height: 54.8px;
+left: 722px;
+top: 529.59px;
+
+/* Secondary/300 */
+background: #38B5D0;
+border-radius: 5px;
+
+
+/* Log in */
+
+width: 547px;
+height: 20px;
+
+/* Input labels */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+text-align: center;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Input-password */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 583px;
+height: 84px;
+left: 722px;
+top: 416.06px;
+
+
+
+/* Email */
+
+width: 314px;
+height: 20px;
+
+/* Input labels */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Titles */
+color: #1D1C3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px;
+gap: 8px;
+
+width: 583px;
+height: 56px;
+
+/* Accent/300 */
+border: 1.5px solid #8A8294;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* john.doe@gmail.com */
+
+width: 314px;
+height: 24px;
+
+/* Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Titles */
+color: #1D1C3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input-email */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 583px;
+height: 82.21px;
+left: 722px;
+top: 310.37px;
+
+
+
+/* Email */
+
+width: 314px;
+height: 20px;
+
+/* Input labels */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height, or 125% */
+
+/* Titles */
+color: #1D1C3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 16px;
+gap: 8px;
+
+width: 583px;
+height: 56px;
+
+/* Accent/300 */
+border: 1.5px solid #8A8294;
+border-radius: 5px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* john.doe@gmail.com */
+
+width: 314px;
+height: 24px;
+
+/* Body */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+/* Titles */
+color: #1D1C3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Entre na sua conta com os dados que realizou ao se registrar. */
+
+position: absolute;
+width: 478px;
+height: 19px;
+left: 722px;
+top: 259px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+/* Accent/300 */
+color: #8A8294;
+
+
+
+.login{
+
+position: absolute;
+width: 239px;
+height: 47px;
+left: 720px;
+top: 189px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 80px;
+line-height: 20px;
+/* or 25% */
+
+color: #000000;
+
+}
